@@ -1,0 +1,29 @@
+.bg-landingcolor {
+	background-color: #c5b9cd;
+}
+
+.img-wd {
+	width: 500px;
+}
+
+.html-wd {
+	width: 400px;
+}
+
+.center-content {
+	text-align: center;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	font-family: 'Onest', sans-serif;
+}
+
+.gmaps-setting {
+	width: 600px; 
+	height:450px;
+	style:border:0; 
+}
